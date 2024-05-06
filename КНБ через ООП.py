@@ -2,7 +2,7 @@ from tkinter import *
 from random import randint
 
 """
-Я добавил изменение
+123
 """
 
 
