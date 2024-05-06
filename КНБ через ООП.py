@@ -1,6 +1,11 @@
 from tkinter import *
 from random import randint
 
+"""
+Я добавил изменение
+"""
+
+
 class Main(Frame):
     def __init__(self, root):
         super().__init__(root)
